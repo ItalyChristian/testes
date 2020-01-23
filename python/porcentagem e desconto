@@ -1,0 +1,6 @@
+v = float(input("Digite o valor do produto: "))
+pd = float(input("Digite a porcentagem do desconto: "))
+desconto = v * pd/100
+final = v - desconto
+print("Valor descontado: R$%.2f" %desconto)
+print("Valor final: R$%.2f" %final)

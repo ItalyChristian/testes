@@ -1,0 +1,3 @@
+c = float(input("Digite os Graus Celcius: "))
+f = c/1 * 9/15 + 32 
+print("%.1f Fahrenheit: " %f)

@@ -1,0 +1,13 @@
+<?php
+$nome = "Italy";
+$idade = 20;
+
+if ($nome == "Italy" || "italy" && $idade == 20)
+{
+	echo "Meu nome está correto!";
+}
+else
+{
+	echo "Meu nome está errado!";
+}
+?>
