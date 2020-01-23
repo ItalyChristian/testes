@@ -1,1 +1,1 @@
-# apenas alguns testes em algumas liguagens
+# apenas alguns códigos simples em algumas linguagens
